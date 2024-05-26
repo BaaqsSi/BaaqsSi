@@ -1,4 +1,3 @@
-Hi there! I'm BaaqsSi, a programmer with a keen interest in Machine Learning ,Web Development and Computer Science.
-I love building innovative solutions and exploring new technologies to  problems. Currently currently learning python.
+👋 Hi there! I'm BaaqsSi, a programmer with a passion for Machine Learning, Web Development, and Computer Science. I enjoy crafting innovative solutions and delving into the latest technologies. Currently diving deep into the world of Python.
 
-When I'm not coding, you can find me in league of legneds.
+When I'm not coding, you'll often find me immersed in League of Legends matches.
